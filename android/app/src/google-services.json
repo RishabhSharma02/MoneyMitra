@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "80684930151",
+    "project_id": "the-finance-app-efc00",
+    "storage_bucket": "the-finance-app-efc00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80684930151:android:194729e807f9ea2b0570c2",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80684930151-57anf3el3vhbettati5fnnfgmf47ddif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_application_1",
+            "certificate_hash": "cb14e77dc996c2d2752f96f75f516e38ffc00c59"
+          }
+        },
+        {
+          "client_id": "80684930151-5ncqrtnil30kjhvmnf3tlmnkhr1ok2m9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj4vLpHZ7hkn-mSdTIIfjepC00boTEr4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80684930151-5ncqrtnil30kjhvmnf3tlmnkhr1ok2m9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
